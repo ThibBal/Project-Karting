@@ -1,0 +1,36 @@
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+f.................................c
+f..                           ....c
+f..S                           ...c
+f..........................     ..c
+faaaaaaaaaaaaaaaaaaaaaaaaab      .c
+fzzzzzzzzzzzzzzzzzzzzzzzzzb     ..c
+f....                          ...c
+f...                          ....c
+f..   xaaaaaaaaaaaaaaaaaaaaaaaaaaac
+f.    xzzzzzzzzzzzzzzzzzzzzzzzzzzzc
+f..                            ...c
+f...                            ..c
+faaaaaaaaaaaaaaaaaaaaaaaaaaab.   .c
+fzzzzzzzzzzzzzzzzzzzzzzzzzzzb..  .c
+f..............................  .c
+f..ooo..oo...o.....o...oo......  .c
+f...o..o..o...o...o...o..o.....  .c
+f...o..oooo....o.o....oooo........c
+f..oo..o..o.....o.....o..o........c
+f.................................c
+f.....xaaaaaaaaaaaaaaaaaaaaaaaaaaac
+f.....xzzzzzzzzzzzzzzzzzzzzzzzzzzzc
+f.................................c
+f..ooo...ooo..o...o..oooo..ooo....c
+f..o.o...o.o...o.o...o.....o......c
+f..ooo...o.o....o....ooo...ooo....c
+f..o.o...o.o...o.o...o.......o....c
+f..o.o...ooo..o...o..oooo..ooo....c
+f.................................c
+faaaaaaaaaaaaaaaaaaaaaaaaaab...  .c
+fzzzzzzzzzzzzzzzzzzzzzzzzzzb...  .c
+f..............................  .c
+f.#                              .c
+f.................................c
+ddddddddddddddddddddddddddddddddddd
